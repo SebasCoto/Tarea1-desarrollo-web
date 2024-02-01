@@ -1,0 +1,65 @@
+
+
+body{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    background-color: bisque;
+}
+
+.header{
+    background-color: cadetblue;
+    height: 12%;
+    position: fixed;
+    top: 0;
+    left:0;
+    width: 100%;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    max-width: 992px;
+    margin: 0 auto;
+}
+
+.nav-link{
+    color: lightblue;
+    text-decoration: none;
+    
+}
+
+.logo{
+    
+    font-size: 32px;
+    font-weight: bold;
+    padding: 0 10px;
+    line-height: 80px;
+}
+
+
+
+
+.nav-menu-link{
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+
+.radio{
+    padding: 0 0 30px 0;
+}
+
+
+.Video{
+    padding: 0 20px;
+    justify-content: space-between;
+    width:640px; 
+    height:360px;
+    
+}
+
+.TxtFormulario{
+    font-weight: bold;
+    padding: 0 0 30px 0;
+        
+}
